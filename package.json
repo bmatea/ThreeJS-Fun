@@ -1,0 +1,19 @@
+{
+  "name": "landingpagetetrahedron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "bootstrap": "^4.5.3",
+    "rollup": "^2.35.1",
+    "rollup-plugin-image-files": "^1.4.2",
+    "three": "^0.123.0",
+    "three-orbit-controls": "^82.1.0"
+  }
+}
